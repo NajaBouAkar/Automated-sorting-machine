@@ -15,7 +15,7 @@ pip install opencv-python
 pip install math smbus time
 ```
 ```bash
-apt-get rpi.gpio
+apt-get install rpi.gpio
 ```
 You also have to download a git repo to be able to use the MPUs
 ```bash
