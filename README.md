@@ -23,7 +23,7 @@ git clone https://github.com/rocheparadox/Kalman-Filter-Python-for-mpu6050.git
 ```
 # Implementation
 To run the code you fisrt have to get the IP address from the pi and replace it in the code running on the laptop. After that you run the code on the pi then you run the code on the laptop and the sorting will start.
-
+Note: you need to place the dnn model in the same directory as your code.
 
 
 
