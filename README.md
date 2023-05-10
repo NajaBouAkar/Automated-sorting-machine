@@ -16,6 +16,7 @@ pip install math smbus time
 ```
 ``bash
 apt-get rpi.gpio
+```
 You also have to download a git repo to be able to use the MPUs
 ``bash
 git clone https://github.com/rocheparadox/Kalman-Filter-Python-for-mpu6050.git
